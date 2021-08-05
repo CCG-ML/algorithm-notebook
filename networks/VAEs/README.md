@@ -12,3 +12,6 @@
 
 ### Some related works
 1. https://ui.adsabs.harvard.edu/public-libraries/OUX2rOPgRpG5SWwe0_CwOA
+
+### books
+1. https://www.deeplearningbook.org/
